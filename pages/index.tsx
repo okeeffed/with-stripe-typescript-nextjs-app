@@ -30,6 +30,14 @@ const IndexPage: NextPage = () => {
             </a>
           </Link>
         </li>
+        <li>
+          <Link href="/use-subscription-cart">
+            <a className="card cart-style-background">
+              <h2 className="bottom">Use Subscription Shopping Cart</h2>
+              <img src="/use-shopping-cart.png" />
+            </a>
+          </Link>
+        </li>
       </ul>
     </Layout>
   );

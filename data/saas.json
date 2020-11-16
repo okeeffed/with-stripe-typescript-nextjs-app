@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Billing Guide: Basic Service",
+    "description": "Does this thing",
+    "sku": "1",
+    "prod": "prod_IOsIxUD0puAaq7",
+    "priceId": "price_1Ho4YwJV8JMnC8XlZAN3Dtma",
+    "price": 500,
+    "currency": "USD"
+  },
+  {
+    "name": "Billing Guide: Premium Service",
+    "description": "Does this more expensive thing",
+    "sku": "2",
+    "prod": "prod_IOsFvIo8HiRl0Z",
+    "priceId": "price_1Ho4WYJV8JMnC8XlDlKizeFZ",
+    "price": 1500,
+    "currency": "USD"
+  }
+]
